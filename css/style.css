@@ -1325,6 +1325,15 @@ figure.effect-julia:hover p {
 
 /*-- //team --*/
 /*-- clients--*/
+.clients-left {
+    background: url(../images/t1.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+	min-height: 463px;
+}
 
 .clients{
     background: rgb(254,143,1);
