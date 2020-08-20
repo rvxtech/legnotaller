@@ -1340,6 +1340,7 @@ figure.effect-julia:hover p {
 	font-size: 30px;
 	text-transform:uppercase;
 	letter-spacing:2px;
+	text-align:center;
 	color:#fff;
     margin-bottom: .5em;
 }
